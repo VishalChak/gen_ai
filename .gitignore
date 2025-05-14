@@ -5,3 +5,4 @@ LICENSE
 .byaldi/
 *.gguf
 *.lock
+*__pycache__/
